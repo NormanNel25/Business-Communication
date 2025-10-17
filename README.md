@@ -1,3 +1,7 @@
 # Business-Communication
 ## How we communication
-sdsdsdsd
+The transition from theory to practice in the workplace is an eye-opening experience that really takes you out of your comfort zone. From fellow student to fellow colleague it raises and improves your professional tone. With your fellow student class mate you would be more prone to slang whereas in the workplace you are expected to hold yourself to a formal professional tone. 
+In this example I will attach a screenshot of an email I sent to a vip vendor that our company is contracted with. 
+The user had contacted me regarding their microsoft account and that they are locked out. He further explained that he is a long-time serving vendor and that his account has expired and needs access to conduct work for our company remotely and onsite. The challenge was that since I am first line service support I only have certain rights under microsoft active directory and could not unlock the user's account. The main outcome was to give access to the user as they work onsite and remotely. I advised the user that I don't have rights to unlock his account and since I'm unable to verify the user on as per our policy the user has to ask his direct superior to log a ticket and escalate to second line support. 
+The user shortly followed suite and his account was unlocked.
+Since this is a frustrating waiting process I learned to calm down users with similar issues and when I cannot solve and issue or don't have physical right to, I escalate a call (ticket).
