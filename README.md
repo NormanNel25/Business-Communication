@@ -1,5 +1,5 @@
 # Business-Communication
-## How we communication
+## How we communicate
 The transition from academic learning to practical application in the workplace is often an eye-opening experience that pushes individuals out of their comfort zones. Moving from peer-to-peer interactions as a student to professional communications as a colleague highlights the importance of adopting a more refined and intentional tone. 
 While casual slang may be commonplace among my classmates, professional environments demand clarity, formality, and respect in every interaction especially when representing your organization to external stakeholders.
 One such instance where I had to exercise professional judgment and communication skills involved responding to a VIP vendor who had been locked out of his Microsoft account. He explained that he is a long-serving vendor who provides critical support to our organization both onsite and remotely and that his expired account was preventing him from accessing necessary systems. 
