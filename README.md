@@ -1,2 +1,2 @@
 # Business-Communication
-How we communication
+## How we communication
